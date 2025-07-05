@@ -1,6 +1,21 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+langgenius/dify-api:1.4.3
+langgenius/dify-web:1.4.3
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.2-local
+langgenius/qdrant:v1.7.3
+#
+#postgres:15-alpine
+#ubuntu/squid:latest
+#certbot/certbot
+#pgvector/pgvector:pg16
+#vastdata/vastbase-vector
+#tensorchord/pgvecto-rs:pg16-v0.3.0
+#ghcr.io/chroma-core/chroma:0.5.20
+#oceanbase/oceanbase-ce:4.3.5-lts
+#container-registry.oracle.com/database/free:latest

@@ -4,14 +4,23 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+#api:
 langgenius/dify-api:1.4.3
+#web:
 langgenius/dify-web:1.4.3
+#sandbox:
 langgenius/dify-sandbox:0.2.12
+#plugin_daemon:
 langgenius/dify-plugin-daemon:0.1.2-local
+#Qdrant:
 langgenius/qdrant:v1.7.3
-#
+
+#db:
 #postgres:15-alpine
+#ssrf_proxy:
 #ubuntu/squid:latest
+
 #certbot/certbot
 #pgvector/pgvector:pg16
 #vastdata/vastbase-vector

@@ -6,9 +6,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #api:
-langgenius/dify-api:1.5.1
+langgenius/dify-api:1.6.0
 #web:
-langgenius/dify-web:1.5.1
+langgenius/dify-web:1.6.0
 #sandbox:
 langgenius/dify-sandbox:0.2.12
 #plugin_daemon:

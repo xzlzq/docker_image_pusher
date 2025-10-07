@@ -6,13 +6,13 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #api:
-langgenius/dify-api:1.7.0
+langgenius/dify-api:1.9.1
 #web:
-langgenius/dify-web:1.7.0
+langgenius/dify-web:1.9.1
 #sandbox:
 langgenius/dify-sandbox:0.2.12
 #plugin_daemon:
-langgenius/dify-plugin-daemon:0.2.0-local
+langgenius/dify-plugin-daemon:0.3.0-local
 #Qdrant:
 langgenius/qdrant:v1.7.3
 

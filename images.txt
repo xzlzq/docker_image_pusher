@@ -6,15 +6,15 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #api:
-langgenius/dify-api:1.9.1
+langgenius/dify-api:1.11.2
 #web:
-langgenius/dify-web:1.9.1
+langgenius/dify-web:1.11.2
 #sandbox:
 langgenius/dify-sandbox:0.2.12
 #plugin_daemon:
-langgenius/dify-plugin-daemon:0.3.0-local
+langgenius/dify-plugin-daemon:0.5.2-local
 #Qdrant:
-langgenius/qdrant:v1.7.3
+langgenius/qdrant:v1.8.3
 
 #db:
 #postgres:15-alpine
